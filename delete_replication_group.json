@@ -1,0 +1,4 @@
+{
+    "action": "delete_replication_group",
+    "ReplicationGroupId": "replication_group_id"
+}

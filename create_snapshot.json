@@ -1,0 +1,4 @@
+{
+    "action": "create_snapshot",
+    "CacheClusterId": "cache_cluster_id"
+}

@@ -1,0 +1,5 @@
+{
+    "action": "restore_replication_group",
+    "CacheClusterId": "cache_cluster_id",
+    "ReplicationGroupId": "replication_group_id"
+}
